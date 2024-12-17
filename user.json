@@ -1,0 +1,54 @@
+{
+  "cookies": [],
+  "origins": [
+    {
+      "origin": "https://dragonflyadmin-dev.loompavision.com",
+      "localStorage": [
+        {
+          "name": "CognitoIdentityServiceProvider.7i1v6vlla15qec7vf1ofpb6lon.LastAuthUser",
+          "value": "ariful.islam@unidevgo.com"
+        },
+        {
+          "name": "CognitoIdentityServiceProvider.7i1v6vlla15qec7vf1ofpb6lon.ariful.islam@unidevgo.com.idToken",
+          "value": "eyJraWQiOiJNUHpsUkk4a2VvMXJFSkd0Q1VydGZWTlQyQ0dTRXdmRlZDdVJybkRlNk9ZPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIxOWU3NTBhOC0xMDE1LTQyNzctYjg2Yy1mNjYyZDczOWNmMzUiLCJjb2duaXRvOmdyb3VwcyI6WyJTdXBlckFkbWluIiwiQWRtaW4iXSwiZW1haWxfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86cHJlZmVycmVkX3JvbGUiOiJhcm46YXdzOmlhbTo6NDk4MzY1MjEzODQ0OnJvbGVcL0NvZ25pdG9BZG1pblJvbGUtYWxvb21wYS1kZXYiLCJjdXN0b206bGFzdE5hbWUiOiJMYXN0IE5hbWUiLCJpc3MiOiJodHRwczpcL1wvY29nbml0by1pZHAudXMtZWFzdC0xLmFtYXpvbmF3cy5jb21cL3VzLWVhc3QtMV9GREk3QkJyV2MiLCJjdXN0b206cHJvZmlsZUltYWdlIjoiaHR0cHM6XC9cL2Fsb29tcGEtYXNzZXRzLmltZ2l4Lm5ldFwvY2l0aXplblwvMTllNzUwYTgtMTAxNS00Mjc3LWI4NmMtZjY2MmQ3MzljZjM1XC83NmFkYWY0NS05MmU5LTQ5YTAtOTExMC0yOTUxZGVhODYyZDQucG5nIiwiY29nbml0bzp1c2VybmFtZSI6IjE5ZTc1MGE4LTEwMTUtNDI3Ny1iODZjLWY2NjJkNzM5Y2YzNSIsImNvZ25pdG86cm9sZXMiOlsiYXJuOmF3czppYW06OjQ5ODM2NTIxMzg0NDpyb2xlXC9Db2duaXRvQWRtaW5Sb2xlLWFsb29tcGEtZGV2Il0sImF1ZCI6IjdpMXY2dmxsYTE1cWVjN3ZmMW9mcGI2bG9uIiwiY3VzdG9tOnByb2ZpbGVDb21wbGV0ZSI6InRydWUiLCJldmVudF9pZCI6IjRjNDU3ZTYyLTgwZjAtNGNiMy1iYTFhLTdlZDAxNzM1ZmFkNiIsImN1c3RvbTpmaXJzdE5hbWUiOiJGaXJzdCBOYW1lIiwidG9rZW5fdXNlIjoiaWQiLCJhdXRoX3RpbWUiOjE3MTg5MDQ0NjQsImV4cCI6MTcxODkwODA2NCwiaWF0IjoxNzE4OTA0NDY0LCJlbWFpbCI6ImFyaWZ1bC5pc2xhbUB1bmlkZXZnby5jb20ifQ.sEyscrGa4H3OUIe0oVqog-2JtFCfIAoP-NXhB3vxzJaDTxi4-pUtASNY996TjSFFEbrtwM-IVe53CMf1YlwqErHooegzQvieLMjKkLHnCbM6uMPkFzObtMeemC5gqbxZpIc008MBVi8ny0j83Y1MtAyeggoMT5mWpfqcdPz-5SkWBdNyvcmUtbde4J7EJi0Qy8R1kTDEQcb_Taipc581wEWX3k2JTEcl-HP2flrpc-3Na-F_l6a6HCps0du7Qh6cSfEIqph6wNvjJ0KEifMOu5k0bAips9G3MMqOHqYHvKKTBabDVJIfHuLvVkt9WV0Hwj6B6gYrbmfqgqOVHpml6A"
+        },
+        {
+          "name": "persist:hs-beacon-message-dbbabf7a-5f06-424a-9976-4d3d6e654d56",
+          "value": "{\"message\":\"{\\\"name\\\":\\\"\\\",\\\"email\\\":\\\"\\\",\\\"subject\\\":\\\"\\\",\\\"text\\\":\\\"\\\",\\\"attachments\\\":[],\\\"fields\\\":[],\\\"persist\\\":true}\",\"_persist\":\"{\\\"version\\\":-1,\\\"rehydrated\\\":true}\"}"
+        },
+        {
+          "name": "CognitoIdentityServiceProvider.7i1v6vlla15qec7vf1ofpb6lon.ariful.islam@unidevgo.com.accessToken",
+          "value": "eyJraWQiOiJidktIRGlPdXg4NzI3ZCs0anRNd1hlYzRWK1VXZXJIUjNPbzF5ODhseHR3PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIxOWU3NTBhOC0xMDE1LTQyNzctYjg2Yy1mNjYyZDczOWNmMzUiLCJjb2duaXRvOmdyb3VwcyI6WyJTdXBlckFkbWluIiwiQWRtaW4iXSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLnVzLWVhc3QtMS5hbWF6b25hd3MuY29tXC91cy1lYXN0LTFfRkRJN0JCcldjIiwiY2xpZW50X2lkIjoiN2kxdjZ2bGxhMTVxZWM3dmYxb2ZwYjZsb24iLCJldmVudF9pZCI6IjRjNDU3ZTYyLTgwZjAtNGNiMy1iYTFhLTdlZDAxNzM1ZmFkNiIsInRva2VuX3VzZSI6ImFjY2VzcyIsInNjb3BlIjoiYXdzLmNvZ25pdG8uc2lnbmluLnVzZXIuYWRtaW4iLCJhdXRoX3RpbWUiOjE3MTg5MDQ0NjQsImV4cCI6MTcxODkwODA2NCwiaWF0IjoxNzE4OTA0NDY0LCJqdGkiOiIyYzU1OTBkZi01MjVhLTQ2ZGItYThlYS05M2I2ODIxNTViNWUiLCJ1c2VybmFtZSI6IjE5ZTc1MGE4LTEwMTUtNDI3Ny1iODZjLWY2NjJkNzM5Y2YzNSJ9.UH-eb6zXu78_5zpfm-Mjffqcbfm2eobptImI4QyRFEWC40g7LHoATC-tbCcO4deNNVuWSXNgDQhsWd29hwKRGyUm-4cCaDCwgWBfTRhvreUMS_mjb79SRzg9kWCPNCKge7groSlgkTj8RdXOfAzI3ZqG4jG7Fg_I4dewO0kHklhPNeE-aEHlqDc9lXj02doQbuzlZ9cp9m9J2kLGSalp39mlAr2icJev1eb6crElu2BL8IvlfnQ9KWMg0m8F2DEB-9MMdhFS1gHnb9t9m1r_GDI27cy_1Ak8M_ttWUqMCiq8lvDljtI7erbV9TKdSkHnDREMEfZ1SjUYW_EAyaAUJA"
+        },
+        {
+          "name": "CognitoIdentityServiceProvider.7i1v6vlla15qec7vf1ofpb6lon.ariful.islam@unidevgo.com.refreshToken",
+          "value": "eyJjdHkiOiJKV1QiLCJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiUlNBLU9BRVAifQ.DobsrL0WZHMJqH9Z7z78T4mK0sM6TjH5jRY-OyDmoIAR5Xl_AzoZcJKO0e9eQRedH3mbZcyY3mIe_iQWeOTWqVvSeOi_WoEaZ47XaWSeP2P5tUApd5m4e4_owdF9W75Ehs5YbZ5zMJfHi05kwfdt9qplnL2bwhfoEh_9EWoqBYIF6y4V9x27EnG21RofTEdSaDOiUb049S8Q_zT4Y0UzfBZlGlQhpCTAwqZhFYY7x16rnBsEjpWkuLFciyAdGXm1BxAi1HxWXlKk9BQZZCje3tf3GU46nKZ3eXBaqNmxX7-zuCS6xiRyRSzKe-tDHzSzHiMsiOSxE6rc4w6J65vIkA.g_7pObj70YApnaOv.JVIS5XKhQi07KiFv8LMf62pmo5Woq7VH1gSG08hwYfKdRaBCuY_Bhj56AN7uj85Dffi57VEXBcXIl8Q27ShdCYpZFYwicfqKGhZnIGLi6AAmYoumFLpP-wcQJm6VhoAcaKXTqHbo4Cxf9lSolsbDl_rFSPSoMH5jPxzesNvgfnd4u0b6ikeEZ6zZmaothsr7iNvpKEmkO7XsYawmyi8FFtuleaX9LZsq1MaeW6dMQBuU1TNczPC95unxS6Vau3T3RV1HW9gAapwtRki6wW7S-43KHVRY2KUIH5oW91YjW-4KQhA6FNUbTaMcJnWkmquInLhiJAY4f0Xg41FAWeukGDDQJesBDa_ILUvRE75F4bm2b0K95kvc29lLLLQCZpgZWMq9mbWizn5upZj9EtvRckgOXrV9I2F9iDnUz6v9gmyTSLCSNVRD5EqQ6hUR8ppKYQrG0edEF8lphc2H3Tpb09LLAb9N1z7rzL-RQKZETdzNOgskd3C1a8NP4ejObqlIroMokiSZrJ7YJEyCztSQcPVVxQ0jjG7Jl1YsYboE2gkEHWjyOaz4HiDl_DCUj-4uNoeBDZ4h6vmN1YvY5t186z2I_Yt_nQmU_I9dcg9HvrvR95wDK9qUegrfcKDzpFbdW7o6Fn3CbEUzcTC0GUfHNRoL-G2Gfp9D02CN9cRHOHYIoOtHxjpPMksqMSBGIXjfGPno-3Zp_tHVqfLldLoyRsGbZ_e3SeUEVhyyFfbcJO2n2ZF7q0_wZ2kxGUFWJIj7OybFcVGxxIzDLAwHUCZjME6E5OXpPfWXl3Nmrml7FnmnNK9kG3Zt6OM3lGXLMBXAGcaG8cpwM1vzXRUD9IdzWv0u0HiVDbfvjwalcI8dI-pBOyGKbkfiKB38u1xuEeudRfmIGIvIDlaU_VqxCfdpg3Zd4rPEx6yXgWd5Mm6AV8Yvah34aMEIhYCF8wwwaMaLSkehVIU4bHCuMXUIdo4zeKM9rnOEMHlLpjNFqRjTRW2GiPCe2XFx6sRGHtLebINzQ_AG38tJEeXy7f6ZzlhEgFrZ-Hd0RnUt5jboRWlM5VpUVO8xWdxaMxXrVF-WAK98viKVy4hYPqZlLheWYCLWyGQ_Qq-Rgm1vy1AhhFFVRnGtlMms4NURZYdV6iv2AWDAmM5SPyP4Cbc3SKvUsTEQAp4jxC9VjoLB9Q0PXsIg0iz4DSDKQP5nKkGf4_dpSO3jgEI6WTcWEfRLscG1euChRaikr8YI4qEmsEUQ5sQtup56ZXVnvqH6qlIQ22dA-eqv8ppmE8H-e2BHb1Xx1EpkA9y5sNNi1HeQdmD9WdweU3CleqeVsauV_NlxOQ.BxqezNO3A5VFkOozKnQV3A"
+        },
+        {
+          "name": "amplify-signin-with-hostedUI",
+          "value": "false"
+        },
+        {
+          "name": "graphqlEndpoint",
+          "value": "https://wow56nxwxferpak3blxjpi7utq.appsync-api.us-east-1.amazonaws.com/graphql"
+        },
+        {
+          "name": "authorization",
+          "value": "eyJraWQiOiJidktIRGlPdXg4NzI3ZCs0anRNd1hlYzRWK1VXZXJIUjNPbzF5ODhseHR3PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIxOWU3NTBhOC0xMDE1LTQyNzctYjg2Yy1mNjYyZDczOWNmMzUiLCJjb2duaXRvOmdyb3VwcyI6WyJTdXBlckFkbWluIiwiQWRtaW4iXSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLnVzLWVhc3QtMS5hbWF6b25hd3MuY29tXC91cy1lYXN0LTFfRkRJN0JCcldjIiwiY2xpZW50X2lkIjoiN2kxdjZ2bGxhMTVxZWM3dmYxb2ZwYjZsb24iLCJldmVudF9pZCI6IjRjNDU3ZTYyLTgwZjAtNGNiMy1iYTFhLTdlZDAxNzM1ZmFkNiIsInRva2VuX3VzZSI6ImFjY2VzcyIsInNjb3BlIjoiYXdzLmNvZ25pdG8uc2lnbmluLnVzZXIuYWRtaW4iLCJhdXRoX3RpbWUiOjE3MTg5MDQ0NjQsImV4cCI6MTcxODkwODA2NCwiaWF0IjoxNzE4OTA0NDY0LCJqdGkiOiIyYzU1OTBkZi01MjVhLTQ2ZGItYThlYS05M2I2ODIxNTViNWUiLCJ1c2VybmFtZSI6IjE5ZTc1MGE4LTEwMTUtNDI3Ny1iODZjLWY2NjJkNzM5Y2YzNSJ9.UH-eb6zXu78_5zpfm-Mjffqcbfm2eobptImI4QyRFEWC40g7LHoATC-tbCcO4deNNVuWSXNgDQhsWd29hwKRGyUm-4cCaDCwgWBfTRhvreUMS_mjb79SRzg9kWCPNCKge7groSlgkTj8RdXOfAzI3ZqG4jG7Fg_I4dewO0kHklhPNeE-aEHlqDc9lXj02doQbuzlZ9cp9m9J2kLGSalp39mlAr2icJev1eb6crElu2BL8IvlfnQ9KWMg0m8F2DEB-9MMdhFS1gHnb9t9m1r_GDI27cy_1Ak8M_ttWUqMCiq8lvDljtI7erbV9TKdSkHnDREMEfZ1SjUYW_EAyaAUJA"
+        },
+        {
+          "name": "CognitoIdentityServiceProvider.7i1v6vlla15qec7vf1ofpb6lon.ariful.islam@unidevgo.com.userData",
+          "value": "{\"UserAttributes\":[{\"Name\":\"sub\",\"Value\":\"19e750a8-1015-4277-b86c-f662d739cf35\"},{\"Name\":\"custom:profileComplete\",\"Value\":\"true\"},{\"Name\":\"email_verified\",\"Value\":\"true\"},{\"Name\":\"custom:firstName\",\"Value\":\"First Name\"},{\"Name\":\"custom:lastName\",\"Value\":\"Last Name\"},{\"Name\":\"custom:profileImage\",\"Value\":\"https://aloompa-assets.imgix.net/citizen/19e750a8-1015-4277-b86c-f662d739cf35/76adaf45-92e9-49a0-9110-2951dea862d4.png\"},{\"Name\":\"email\",\"Value\":\"ariful.islam@unidevgo.com\"}],\"Username\":\"19e750a8-1015-4277-b86c-f662d739cf35\"}"
+        },
+        {
+          "name": "CognitoIdentityServiceProvider.7i1v6vlla15qec7vf1ofpb6lon.ariful.islam@unidevgo.com.clockDrift",
+          "value": "-5"
+        },
+        {
+          "name": "persist:hs-beacon-dbbabf7a-5f06-424a-9976-4d3d6e654d56",
+          "value": "{\"chat\":\"{\\\"id\\\":\\\"\\\",\\\"messageBody\\\":\\\"\\\",\\\"persistedMessages\\\":[],\\\"state\\\":\\\"CHAT_STATE_EMPTY\\\",\\\"subject\\\":\\\"\\\"}\",\"docs\":\"{\\\"article\\\":{\\\"data\\\":null,\\\"payload\\\":null,\\\"isLoading\\\":false,\\\"isError\\\":false},\\\"beaconIsOpened\\\":false,\\\"openedArticles\\\":[]}\",\"messages\":\"{\\\"shownMessages\\\":[\\\"e2e86f09-1d67-4f0c-b503-d504d4c058d1\\\"],\\\"staticConditionsState\\\":{\\\"pageViews\\\":2,\\\"repeatPageViews\\\":[{\\\"url\\\":\\\"https://dragonflyadmin-dev.loompavision.com/#/apps/792353d2-b992-4760-85a9-09570f1fc77c/0b6fcffd-e117-43dd-8403-28688baa5ff7\\\",\\\"count\\\":2}]},\\\"syncedCustomerHash\\\":null,\\\"lastSyncTimestamp\\\":null,\\\"shownMessagesTimestamps\\\":{\\\"e2e86f09-1d67-4f0c-b503-d504d4c058d1\\\":1718904472634}}\",\"status\":\"{\\\"hasShownFabAnimation\\\":true}\",\"user\":\"{\\\"email\\\":\\\"\\\",\\\"name\\\":\\\"\\\",\\\"signature\\\":\\\"\\\",\\\"identified\\\":false}\",\"auth\":\"{\\\"deviceId\\\":\\\"8cb22848-78c6-476d-a11b-01fba39afe1b\\\",\\\"jwt\\\":\\\"\\\"}\",\"stats\":\"{}\",\"timeline\":\"{\\\"activity\\\":[{\\\"type\\\":\\\"page-viewed\\\",\\\"timestamp\\\":\\\"2024-06-20T17:27:48.627Z\\\",\\\"url\\\":\\\"https://dragonflyadmin-dev.loompavision.com/#/apps/792353d2-b992-4760-85a9-09570f1fc77c/0b6fcffd-e117-43dd-8403-28688baa5ff7\\\",\\\"title\\\":\\\"| Aloompa\\\"}]}\",\"_persist\":\"{\\\"version\\\":0,\\\"rehydrated\\\":true}\"}"
+        }
+      ]
+    }
+  ]
+}
